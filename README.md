@@ -1,0 +1,1 @@
+## A simple application that fetches images from imgur API and displays it.
